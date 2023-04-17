@@ -1,2 +1,2 @@
 # Project
-just for demo
+just for demo practice
